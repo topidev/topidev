@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, i'm Topitizin i'm currenly learning buch of stuff, everyday it's something new<br>The main focus is TypeScript, CSS libraries (tailwind, chakra, material, etc), and frameworks (Next, Astro, etc)<br>I'm looking for to become a full stack developer.
+Hello, i'm Topitizin i'm currenly learning buch of stuff, everyday it's something new<br>The main focus is TypeScript, CSS libraries (tailwind, shadcn), and frameworks (Next, Astro)<br>I'm looking for to become a full stack developer.
 
 
 ## 🌐 Socials:
